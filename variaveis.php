@@ -6,7 +6,4 @@
  echo '<br/>';
  echo 'My name is';
  echo $nome;
-
- echo '<br/>'<br/>;
- 
 ?>
