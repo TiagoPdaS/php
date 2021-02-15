@@ -1,2 +1,2 @@
 # php
-exemplos-em-pho
+exemplos-em-php
